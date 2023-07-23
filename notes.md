@@ -1,6 +1,6 @@
-# Notes
+# Notes
 
-## Don't use `esModuleInterop`
+## Don't use `esModuleInterop`
 
 If you enable esModuleInterop then consumers of your code will need to do the same.
 
