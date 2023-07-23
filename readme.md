@@ -11,6 +11,7 @@ Setup:
 ## API Surface Report & Docs
 
 See https://api-extractor.com/
+and https://github.com/mike-north/professional-ts/blob/master/notes/11-api-extractor.md
 
 - Runs against d.ts files
 - Generates schema and definitions
