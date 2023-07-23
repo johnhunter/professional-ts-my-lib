@@ -1,5 +1,7 @@
 # Professional TS: my-lib
 
+An example library setup including [generated documentation](https://johnhunter.github.io/professional-ts-my-lib/).
+
 From https://github.com/mike-north/professional-ts
 
 Setup:
@@ -18,4 +20,4 @@ and https://github.com/mike-north/professional-ts/blob/master/notes/11-api-extra
 - Should be part of a CI task
 - Generate docs
 
-[Documentation](./docs/index.md)
+[Documentation](https://johnhunter.github.io/professional-ts-my-lib/)
